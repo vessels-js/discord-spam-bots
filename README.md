@@ -8,7 +8,9 @@ Simple python scripts to make people salty.
 
 #Use
 Edit the config with your username (email) and password for discord.
+
 Edit DirPictures with your folder location.
+
 Insult spam is connected to insultgenerator.org so you dont have to do anything.
 
 ![its a face](http://i.imgur.com/bTMYozm.png)
