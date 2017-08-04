@@ -1,6 +1,5 @@
 # Basic Config (For all bots)
-userEmail = 'merubokkusu@merubokkusu.ga' # Email here
-userPassword = 'thisisaprettynicepassword' # Password here
+userToken = '' # How to get your token https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial
 DiscordChannel = 'XXXXX93322404167XX' # Channel ID,
 
 #Picture spam
