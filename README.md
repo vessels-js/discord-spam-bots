@@ -18,6 +18,8 @@ Edit the config with your token for discord.
 
 Edit DirPictures with your folder location.
 
+Run start.py
+
 # Final Notes
 This is made for just messing around with your friends, not for using it on servers to troll and be toxic on.
 
