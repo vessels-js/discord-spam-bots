@@ -1,6 +1,6 @@
 import sys
 import subprocess
-import shlex
+import os
 from time import sleep
 from config import *
 
@@ -24,16 +24,15 @@ in_pick = float(input("Select a bot: "))
 
 if in_pick == 1:
     for token in userToken:
-        p = subprocess.Popen(shlex.split('python discord_image_spam.py ' + token))
+        p = subprocess.Popen(['python', 'discord_image_spam.py', token],shell=True)
             
 if in_pick == 2:
     for token in userToken:
-        p = subprocess.Popen(shlex.split('python discord_insult_spam.py ' + token))
+        p = subprocess.Popen(['python','discord_insult_spam.py', token],shell=True)
         
 if in_pick == 3:
     spam_text = input("Write spam text : ")
     print('python discord_text_spam.py ' + "'"+spam_text+"'")
     for token in userToken:
-        p = subprocess.Popen(shlex.split('python discord_text_spam.py ' + token + " "+'"'+spam_text+'"'))
-
+        p = subprocess.Popen(['python','discord_text_spam.py',token,spam_text],shell=True)
 p.wait()
