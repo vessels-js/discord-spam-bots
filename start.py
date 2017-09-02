@@ -34,5 +34,9 @@ if in_pick == 3:
     spam_text = input("Write spam text : ")
     print('python discord_text_spam.py ' + "'"+spam_text+"'")
     for token in userToken:
+        print('Loading Token')
         p = subprocess.Popen(['python','discord_text_spam.py',token,spam_text],shell=True)
+        sleep(1)
+        print("Token Loaded.")
+        print(' ')
 p.wait()
