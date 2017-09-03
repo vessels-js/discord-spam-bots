@@ -1,7 +1,11 @@
-# discord-spam-bots
-## Simple python scripts to make people salty 
+### Simple python scripts to make people salty 
 
-[Buy me a Dr.Pepper(Because alcohol is nasty)](https://www.paypal.me/Merubokkusu)
+
+[Buy me a Dr.Pepper (Because alcohol is nasty)](https://www.paypal.me/Merubokkusu)
+
+[Or give me anything on on Steam](https://steamcommunity.com/tradeoffer/new/?partner=94720138&token=GY23F7tU)
+
+
 # Features 
 - Mulitple accounts(Kind of working. had to make two new accounts to test. Since I'm not using my main for reasons).
 - Image Spammer
