@@ -14,7 +14,7 @@
 
 # Requirements 
 - Python3
-- Discord API (python3 -m pip install -U discord.py)
+- Discord API (pip install discord.py)
 - Beautiful Soup 4 (pip install bs4)
 
 # Use
