@@ -27,4 +27,10 @@ Run start.py
 # Final Notes
 This is made for just messing around with your friends, not for using it on servers to troll and be toxic on.
 
+
+Its also another reason for discord to improve their anti-spam, such as cool down for typing the same word more than 5 times.
+Discord really needs to work on their anti-spam, so look at this as almost a tool for Discord to improve with.
+
+If i find out its being using for toxic reasons I'll remove it or if discord asks me too.
+
 ![its a face](http://i.imgur.com/bTMYozm.png)
